@@ -79,8 +79,4 @@ You can add these scripts to `package.json` for convenience:
 - Entry point: `src/index.ts` — open this file to see the example server code.
 - Compiler options: `tsconfig.json` — check `outDir`, `module`, and `target` for runtime compatibility.
 
-If you want, I can also:
-- Add `package.json` scripts directly for you.
-- Run the build and start the server locally and show a short test response.
-
 Enjoy exploring the example!
